@@ -1,7 +1,7 @@
 # Shiro Amurha
 
 python dev, always studying some new things <br>
-almost fluent in english, but i am brazillian <br>
+almost fluent in english, but portuguese is my main language <br>
 
 
 <div align="center">
