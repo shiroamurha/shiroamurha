@@ -2,7 +2,7 @@
 
 python dev, always studying some new things <br>
 almost fluent in english, but i am brazillian <br>
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> shiro de kayn#2272
+
 
 <div align="center">
   <a href="https://github.com/shiroamurha">
@@ -10,3 +10,4 @@ almost fluent in english, but i am brazillian <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroamurha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> <br>shiro de kayn#2272
