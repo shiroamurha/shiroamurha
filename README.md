@@ -1,7 +1,8 @@
 # Shiro Amurha
 
 python dev, always studying some new things 
-
+almost fluent in english, but i am brazillian
+discord: shiro de kayn#2272
 
 <div align="center">
   <a href="https://github.com/shiroamurha">
