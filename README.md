@@ -1,8 +1,8 @@
 # Shiro Amurha
 
-python dev, always studying some new things 
-almost fluent in english, but i am brazillian
-discord: shiro de kayn#2272
+python dev, always studying some new things <br>
+almost fluent in english, but i am brazillian <br>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> shiro de kayn#2272
 
 <div align="center">
   <a href="https://github.com/shiroamurha">
