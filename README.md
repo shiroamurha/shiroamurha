@@ -1,7 +1,7 @@
 # Shiro Amurha
   
-python dev, always studying some new things <br>
-almost fluent in english, but portuguese is my main language <br>
+• Python dev, however always studying some new things <br>
+• Almost fluent in english, but portuguese is my main language <br>
  
 
 <div align="center">
@@ -12,6 +12,6 @@ almost fluent in english, but portuguese is my main language <br>
 
 <div align=center>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <br>
-shiro de kayn#2272  </div>
+shiro de kayn#2272</div>
 
  
