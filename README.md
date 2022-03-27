@@ -12,6 +12,8 @@
 
 <div align=center>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <br>
-shiro de kayn#2272</div>
+┌──────────────────────┐<br>
+  shiro de kayn#2272  <br>
+└──────────────────────┘</div>
 
  
