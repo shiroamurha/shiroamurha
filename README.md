@@ -10,7 +10,8 @@ almost fluent in english, but portuguese is my main language <br>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroamurha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<div align=center>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <br>
-shiro de kayn#2272  
+shiro de kayn#2272  </div>
 
  
