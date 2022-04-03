@@ -2,7 +2,7 @@
    
 • Python dev, however always studying some new things <br>
 • Almost fluent in english, but portuguese is my main language <br>
- 
+  
 
 <div align="center">
   <a href="https://github.com/shiroamurha">
