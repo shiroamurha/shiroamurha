@@ -1,4 +1,4 @@
-# Shiro Amurha
+# Shiro Amurha 
    
 • Python dev, however always studying some new things <br>
 • Almost fluent in english, but portuguese is my main language <br>
