@@ -10,9 +10,9 @@
 </div>
 
 <div align=center>
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <br>
+
 ┌──────────────────────┐<br>
-  shiro de kayn#2272  <br>
+<img style="lenght: 10px; width: 75px;" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <a style="vertical-alignment: center">shiro amurha#2272</a>  <br>
 └──────────────────────┘</div>
 
  
