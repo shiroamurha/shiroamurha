@@ -8,7 +8,7 @@
 * 💲 Binance/Kucoin API
 * 🧪 Electron-Flask
 
-<img height="25px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" href="https://discord.com/users/281563886388379649"> 
+<a href="https://discord.com/users/281563886388379649"><img height="25px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <div align="justify">
 <!-- Github Badges -->
 <a display="flex" href="http://www.github.com/shiroamurha"><img src="https://github-readme-stats.vercel.app/api?username=shiroamurha&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="shiroamurha's GitHub stats" /></a>
