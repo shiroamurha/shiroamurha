@@ -4,7 +4,7 @@
 • Almost fluent in english, but portuguese is my main language <br>
 • System Analysis and Development student at Federal Institute of Rio Grande do Sul (IFRS) <br>
 
-* 🐍 SeleNium, Playwright, BS4, Pandas
+* 🐍 Selemium, Playwright, BS4, Pandas
 * 💲 Binance/Kucoin API
 * 🧪 Electron-Flask
   
